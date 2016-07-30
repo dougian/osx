@@ -168,7 +168,7 @@ export TRANSMIT_APP_NAME=Transmit.app
 export TRANSMIT_APP_URL="http://download.panic.com/transmit/Transmit%204.4.10.zip"
 
 export PAW_APP_NAME=Paw.app
-export PAW_APP_URL="https://d3hevc2w7wq7nj.cloudfront.net/paw/Paw-3.0.4-3000004000.zip"
+export PAW_APP_URL="https://d3hevc2w7wq7nj.cloudfront.net/paw/Paw-3.0.5-3000005000.zip"
 
 export ISTATS_APP_NAME="iStat Menus.app"
 export ISTATS_APP_URL="http://download.bjango.com/istatmenus"
